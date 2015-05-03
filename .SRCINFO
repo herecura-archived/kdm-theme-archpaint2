@@ -1,7 +1,7 @@
 pkgbase = kdm-theme-archpaint2
 	pkgdesc = KDM themes based on archpaint2 wallpaper
 	pkgver = 1.0
-	pkgrel = 1
+	pkgrel = 2
 	url = http://www.archlinux.org
 	arch = any
 	license = CCPL
