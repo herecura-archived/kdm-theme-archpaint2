@@ -2,7 +2,7 @@
 
 pkgname=kdm-theme-archpaint2
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="KDM themes based on archpaint2 wallpaper"
 arch=('any')
 url="http://www.archlinux.org"
